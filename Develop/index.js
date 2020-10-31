@@ -1,4 +1,3 @@
-//inquirer
 const inquirer = require('inquirer');
 const fs = require('fs');
 const path = require('path');
@@ -26,17 +25,17 @@ const questions = [
     {
         type: "input",
         name: "usage",
-        message: "What does the user need to know about using the repo?",
+        message: "What is the usage of this project?",
     },
     {
         type: "input",
         name: "contributing",
-        message: "What does the user need to know about contributing to the repo?",
+        message: "How does the user contribute to the repo?",
     },
     {
         type: "input",
         name: "test",
-        message: "What command should be run to run tests?",
+        message: "What command should be run, to run tests?",
         default: "npm test"
     },
     {
@@ -55,7 +54,7 @@ const questions = [
         name: "email",
         message: "What is your email address?"
     }
-        
+
   ];
   
 
@@ -69,20 +68,10 @@ function init() {
     inquirer.prompt(questions)
     .then((answers) => {
         console.log(answers);
-        writeToFile('MYREADME.md', generateMd(answers));
+        writeToFile('generatedREADME.md', generateMd(answers));
     })
 }
 
 // function call to initialize program
 init();
-
-//   * Title
-//   * Description
-//   * Table of Contents
-//   * Installation
-//   * Usage
-//   * License
-//   * Contributing
-//   * Tests
-//   * Questions
  
