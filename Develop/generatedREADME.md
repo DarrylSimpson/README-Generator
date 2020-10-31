@@ -1,11 +1,11 @@
 
   
-  # Darryl
-  ![GitHub license](<https://img.shields.io/badge/license-MIT-blue.svg>)
+  # project 1
+  ![GitHub license](<https://img.shields.io/badge/license-BSD 3-blue.svg>)
   
   ## Description
   
-  its a cool app
+  its cool
   
   ## Table of Contents 
   
@@ -29,13 +29,13 @@
   
   ## Usage
   
-  to generate things
+  use it to be cool
   
 
     
   ## Contributing
   
-  clone and add
+  clone it 
   
   ## Tests
   
@@ -47,6 +47,6 @@
   
   ## Questions
   
-  If you have any questions about this repository you can contact me at darryl@darryl.com. Also, check out my work at [Darrylsimpson	](https://github.com/Darrylsimpson	/).
+  If you have any questions about this repository you can contact me at darryl@darryl.com. Also, check out my work at [darrylSimpson](https://github.com/darrylSimpson/).
   
   

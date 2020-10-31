@@ -25,12 +25,12 @@ const questions = [
     {
         type: "input",
         name: "usage",
-        message: "What is the usage of this project?",
+        message: "Usage instructions for this project?",
     },
     {
         type: "input",
         name: "contributing",
-        message: "How does the user contribute to the repo?",
+        message: "Who contributed to the repo?",
     },
     {
         type: "input",
