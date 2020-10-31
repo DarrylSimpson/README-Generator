@@ -17,11 +17,16 @@ const questions = [
 
 // function to write README file
 function writeToFile(fileName, data) {
+    return fs.writeFileSync(path.join(fileName), data);
 }
 
 // function to initialize program
 function init() {
-    
+    inquirer.prompt(questions)
+    .then((answers) => {
+        console.log(answers);
+        writeToFile('MYREADME.md', generateMd(answers));
+    })
 }
 
 // function call to initialize program
