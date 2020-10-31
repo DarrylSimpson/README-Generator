@@ -21,7 +21,7 @@ function generateMarkdown(data) {
   
   ## Installation
   
-  To install necessary dependencies, run the following command:
+  To install dependencies needed, run the following command:
   
   \`\`\`
   ${data.installation}
@@ -47,7 +47,7 @@ function generateMarkdown(data) {
   
   ## Questions
   
-  If you have any questions about the repo, open an issue or contact me directly at ${data.email}. You can find more of my work at [${data.github}](https://github.com/${data.github}/).
+  If you have any questions about this repository you can contact me at ${data.email}. Also, check out my work at [${data.github}](https://github.com/${data.github}/).
   
   `;
 }
