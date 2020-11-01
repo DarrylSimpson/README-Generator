@@ -61,11 +61,11 @@
 
 ## Pictures
 
-![ScreenShot1of3](./Develop/Assets/pictures/image01.png)
+![ScreenShot1of3](Develop/Assets/pictures/image01.png)
 
-![ScreenShot2of3](./Develop/Assets/pictures/image02.png)
+![ScreenShot2of3](Develop/Assets/pictures/image02.png)
 
-![ScreenShot3of3](./Develop/Assets/pictures/image03.png)
+![ScreenShot3of3](Develop/Assets/pictures/image03.png)
 
 
 
