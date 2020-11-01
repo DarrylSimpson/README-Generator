@@ -64,7 +64,8 @@
 
 ## Video Instructions
 
-<iframe src="https://drive.google.com/file/d/1VFZ7yX3wN5hKhaB-f7oUckqoR4HG9Ftz/preview" width="640" height="480"></iframe>
+
+![video](https://drive.google.com/file/d/1VFZ7yX3wN5hKhaB-f7oUckqoR4HG9Ftz/view?usp=sharing)
 
 ## Pictures
 
