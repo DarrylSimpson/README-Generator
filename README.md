@@ -26,14 +26,13 @@
 
 </br>
 </br>
-</br>
-</br>
+
 
 
 # About The Project
 * GIVEN a command-line application that accepts user input
 * WHEN you are prompted for information about my application repository
-* THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
+* THEN a high-quality, professional README file is generated with the title of your project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
 * WHEN you enter your project title
 * THEN that is displayed as the title of the README
 * WHEN you enter a description, installation instructions, usage information, contribution guidelines, and test instructions
@@ -50,7 +49,7 @@
 
 </br>
 </br>
-</br>
+
 
 ## Built With
  * HTML
@@ -58,11 +57,14 @@
 
 
 </br>
-</br>
-</br>
+
 
 
 # Usage
+
+## Video Instructions
+
+<iframe src="https://drive.google.com/file/d/1VFZ7yX3wN5hKhaB-f7oUckqoR4HG9Ftz/preview" width="640" height="480"></iframe>
 
 ## Pictures
 
@@ -78,7 +80,7 @@
 
 # Link to Page
 
-* [Follow this Link to page](https://cgsdesign.github.io/table-top-resource/)
+* [Follow this Link to page](https://darrylsimpson.github.io/README-Generator/)
 
 </br>
 </br>
@@ -89,5 +91,5 @@
 ## Creator
 </br>
 
-* [Check out my GitHub](https://github.com/DarrylSimpson) , or you could email me at [Darryl.Simpson0793@gmail.com](mailto:Darryl.Simpson0793@gmail.com)
+* [Check out my GitHub](https://github.com/DarrylSimpson) , or email me at [Darryl.Simpson0793@gmail.com](mailto:Darryl.Simpson0793@gmail.com)
 

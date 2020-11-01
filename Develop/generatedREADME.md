@@ -1,11 +1,11 @@
 
   
-  # project 1
-  ![GitHub license](<https://img.shields.io/badge/license-BSD 3-blue.svg>)
+  # README generator
+  ![GitHub license](<https://img.shields.io/badge/license-None-blue.svg>)
   
   ## Description
   
-  its cool
+  helps to generate a README
   
   ## Table of Contents 
   
@@ -29,13 +29,13 @@
   
   ## Usage
   
-  use it to be cool
+  type answeres when prompted and it will generate 
   
 
     
   ## Contributing
   
-  clone it 
+  Darryl Simpson
   
   ## Tests
   
@@ -47,6 +47,6 @@
   
   ## Questions
   
-  If you have any questions about this repository you can contact me at darryl@darryl.com. Also, check out my work at [darrylSimpson](https://github.com/darrylSimpson/).
+  If you have any questions about this repository you can contact me at Darryl.simpson0793@gmail.com. Also, check out my work at [DarrylSimpson](https://github.com/DarrylSimpson/).
   
   
