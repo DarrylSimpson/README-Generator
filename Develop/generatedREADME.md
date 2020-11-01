@@ -5,7 +5,7 @@
   
   ## Description
   
-  helps to generate a README
+  helps to generate a README.md
   
   ## Table of Contents 
   
@@ -29,13 +29,13 @@
   
   ## Usage
   
-  type answeres when prompted and it will generate 
+  use to create a readme
   
 
     
   ## Contributing
   
-  Darryl Simpson
+  darryl Simpson
   
   ## Tests
   
@@ -47,6 +47,6 @@
   
   ## Questions
   
-  If you have any questions about this repository you can contact me at Darryl.simpson0793@gmail.com. Also, check out my work at [DarrylSimpson](https://github.com/DarrylSimpson/).
+  If you have any questions about this repository you can contact me at Darryl.Simpson0793@gmail.com. Also, check out my work at [DarrylSimpson](https://github.com/DarrylSimpson/).
   
   
