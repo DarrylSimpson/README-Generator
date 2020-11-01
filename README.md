@@ -64,8 +64,7 @@
 
 ## Video Instructions
 
-
-![video](https://drive.google.com/file/d/1VFZ7yX3wN5hKhaB-f7oUckqoR4HG9Ftz/view?usp=sharing)
+[![video](https://res.cloudinary.com/marcomontalbano/image/upload/v1604272293/video_to_markdown/images/google-drive--1VFZ7yX3wN5hKhaB-f7oUckqoR4HG9Ftz-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1VFZ7yX3wN5hKhaB-f7oUckqoR4HG9Ftz/view?usp=sharing "video")
 
 ## Pictures
 
