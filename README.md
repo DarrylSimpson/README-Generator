@@ -24,8 +24,6 @@
 </details>
 
 
-</br>
-</br>
 
 
 
@@ -47,16 +45,11 @@
 * THEN you will be taken to the corresponding section of the README
 
 
-</br>
-</br>
-
 
 ## Built With
  * HTML
  * [Node](https://nodejs.org/en/)
 
-
-</br>
 
 
 
@@ -68,28 +61,24 @@
 
 ## Pictures
 
-![ScreenShot1of3](Develop/Assets/pictures/image01.png)
+![ScreenShot1of3](./Develop/Assets/pictures/image01.png)
 
-![ScreenShot2of3](Develop/Assets/pictures/image02.png)
+![ScreenShot2of3](./Develop/Assets/pictures/image02.png)
 
-![ScreenShot3of3](Develop/Assets/pictures/image03.png)
+![ScreenShot3of3](./Develop/Assets/pictures/image03.png)
 
-</br>
-</br>
-</br>
+
 
 # Link to Page
 
 * [Follow this Link to page](https://darrylsimpson.github.io/README-Generator/)
 
-</br>
-</br>
-</br>
+
 
 # Contact
 
 ## Creator
-</br>
+
 
 * [Check out my GitHub](https://github.com/DarrylSimpson) , or email me at [Darryl.Simpson0793@gmail.com](mailto:Darryl.Simpson0793@gmail.com)
 

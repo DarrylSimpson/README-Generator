@@ -30,7 +30,7 @@ const questions = [
     {
         type: "input",
         name: "contributing",
-        message: "Who contributed to the repo?",
+        message: "How can someone contribute to this repo?",
     },
     {
         type: "input",
